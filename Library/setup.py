@@ -61,7 +61,7 @@ class install(_install):
 
 setup(
     name='Learning Studio API',
-    version='0.1dev',
+    version='1.0',
     packages=['learningstudio', 
               'learningstudio.test',
               'learningstudio.oauth', 
